@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/h4ma/gtk-todo">
+    <file preprocess="xml-stripblanks">ui/application_window.ui</file>
+    <file preprocess="xml-stripblanks">ui/new_item_window.ui</file>
+    <file preprocess="xml-stripblanks">ui/todo_item_list_box_row.ui</file>
+  </gresource>
+</gresources>
